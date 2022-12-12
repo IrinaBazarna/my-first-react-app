@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <footer className="App-footer">
-        <h1>Wheather App</h1>
+        <h1>Wheather App🌈</h1>
         <Weather />
         <p>
           <a
