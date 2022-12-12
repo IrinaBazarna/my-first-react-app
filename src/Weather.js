@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import WeatherDate from "./WeatherDate";
-import axios from "axios";
+import React, { useState } from 'react';
+import WeatherDate from './WeatherDate';
+import axios from 'axios';
 
 function WeatherInf(props) {
   const [weather, setWeather] = useState({ ready: false });

@@ -1,6 +1,6 @@
-import React from "react";
-import Weather from "./Weather";
-import "./App.css";
+import React from 'react';
+import Weather from './Weather';
+import './App.css';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
             Open sourse code
           </a>
           {""}
-          by Irina Bazarna
+          by Irina Bazarna😉
         </p>
       </footer>
     </div>
